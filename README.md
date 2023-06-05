@@ -12,7 +12,14 @@ Detalhar como um usuário pode instalar e usar o sistema
 
 ## Tecnologias
 
-Informar quais tecnologias foram usadas no projeto
+### Frontend:
+
+- HTML
+- CSS
+- JavaScript
+- Vite
+- React
+- Styled Components
 
 ## Autores
 
@@ -21,7 +28,7 @@ Abaixo temos uma lista de pessoas que participaram deste projeto ao longo dos an
 ### Equipe 1º/2023
 
 | E-mail | Nome | Função |
-|------|--------|-------|
+| ------ | ---- | ------ |
 | sarah._gleice@hotmail.com | Sarah Gleice Andrade de Souza | Gerente de Projeto |
 | valdirenealvesdebrito@gmail.com | Valdirene Alves de Brito | Scrum Master, Analista de Requisitos e Testes |
 | vivianeferreiras1@outlook.com | Viviane Ferreira Santos | Lider de Equipe e Desenvolvedor Frontend |
